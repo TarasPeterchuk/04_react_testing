@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dialog should display Dialog section 1`] = `
+<div
+  className="dialog"
+>
+  <div
+    className="dialog__heading"
+  >
+    <h4
+      className="dialog__title"
+    />
+    <button
+      className="dialog__close-btn"
+    >
+      +
+    </button>
+  </div>
+  <div
+    className="dialog__content"
+  />
+</div>
+`;
+
+exports[`Dialog should initialize counter with 0 1`] = `
+<div
+  className="dialog"
+>
+  <div
+    className="dialog__heading"
+  >
+    <h4
+      className="dialog__title"
+    />
+    <button
+      className="dialog__close-btn"
+    >
+      +
+    </button>
+  </div>
+  <div
+    className="dialog__content"
+  />
+</div>
+`;
